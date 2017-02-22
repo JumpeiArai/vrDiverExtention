@@ -1,3 +1,7 @@
-/**
- * Created by procyon on 2017/02/23.
- */
+const $ = require('jquery');
+
+module.exports = (() => {
+  document.addEventListener('DOMContentLoaded', () => {
+    console.log($);
+  });
+})();

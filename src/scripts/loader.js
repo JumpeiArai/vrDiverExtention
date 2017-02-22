@@ -1,3 +1,2 @@
-/**
- * Created by procyon on 2017/02/23.
- */
+// Main script
+require('./main');
